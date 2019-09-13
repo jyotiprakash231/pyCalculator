@@ -1,3 +1,8 @@
+def sum(firstNumber,secondNumber):
+    return firstNumber+secondNumber
+
+
+
 print("**********pyCalculator**********")
 choice=int(input("\n1.Sum\n2.Sub\n3.Mul\n4.Div\nEnter your choice:"));
 firstNumber=int(input("\nEnter first number:"))
