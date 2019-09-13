@@ -1,5 +1,11 @@
 def sum(firstNumber,secondNumber):
     return firstNumber+secondNumber
+def Sub(firstNumber,secondNumber):
+    return firstNumber-secondNumber
+def mul(firstNumber,secondNumber):
+    return firstNumber*secondNumber
+def div(firstNumber,secondNumber):
+    return firstNumber/secondNumber
 
 
 <<<<<<< HEAD
