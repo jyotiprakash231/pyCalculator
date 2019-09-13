@@ -8,10 +8,6 @@ def div(firstNumber,secondNumber):
     return firstNumber/secondNumber
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> b73489d1ef2c3f1b7394b0a1fa34bf93e89add68
 print("**********pyCalculator**********")
 choice=int(input("\n1.Sum\n2.Sub\n3.Mul\n4.Div\nEnter your choice:"));
 firstNumber=int(input("\nEnter first number:"))
